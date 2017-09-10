@@ -1,0 +1,11 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_default_folder_default"
+        android:key="@string/settings_default_folder_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_default_folder" />
+
+</PreferenceScreen>

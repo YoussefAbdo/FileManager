@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="open_using">Open using</string>
+    <string name="delete">Delete</string>
+    <!-- Refresh Menu Item [CHAR LIMIT=NONE] -->
+    <string name="refresh_menu_item">Refresh</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">File Manager Settings</string>
+    <!-- Strings For Default Folder Preference [CHAR LIMIT=30] -->
+    <string name="settings_default_folder">Default Folder</string>
+    <string name="settings_default_folder_key" translatable="false">default_folder</string>
+    <string name="settings_default_folder_default" translatable="false"></string>
+    <string name="wrong_path">Wrong Path\n
+        Please double check Default Folder Setting\n
+        Then restart the application\n
+        Path format example: \"/folder1/folder2\"</string>
+</resources>
